@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jesus and I'm a programming student, from Spain 🇪🇸.</h2>
+<h2 align="left">Hi <img src="assets/handshake.gif" height="25px">! My name is Jesus and I'm a programming student, from Spain 🇪🇸.</h2>
 
 ###
 
