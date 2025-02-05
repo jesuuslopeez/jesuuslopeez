@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jesuuslopeez/jesuuslopeez/output/snake.svg" alt="Snake animation" />
+<img src="assets/snake.svg" alt="Snake animation" />
 
 ###
