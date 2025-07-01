@@ -10,7 +10,7 @@
 
 ### 🌐 Contact
 <div align="left">
-  <a href="www.linkedin.com/in/jesuuslopeezp" target="_blank">
+  <a href="https://www.linkedin.com/in/jesuuslopeezp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jesús_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="35" alt="linkedin logo" />
   </a>
   <a href="https://x.com/jesuuslopeez_" target="_blank">
